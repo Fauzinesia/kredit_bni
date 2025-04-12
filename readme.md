@@ -71,7 +71,7 @@ kredit_bni/
 ## Pengembangan Selanjutnya
 - Integrasi Gmail API untuk data Looser
 - GPS Absensi berbasis lokasi
-- Sistem Penjadwalan Shift RSUD
+- Role Operator belum siap
 - Laporan PDF & Export Excel
 
 ---
